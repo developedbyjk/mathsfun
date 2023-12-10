@@ -54,8 +54,6 @@ function updateResponse(e)
 
 
 
-
-
 function handleSubmit(e){
     e.preventDefault()
       let val = currentResponse
