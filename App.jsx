@@ -52,8 +52,6 @@ function updateResponse(e)
  setCurrentResponse(e.target.value);   
 }
 
-
-
 function handleSubmit(e){
     e.preventDefault()
       let val = currentResponse
